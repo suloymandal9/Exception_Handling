@@ -1,14 +1,9 @@
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-import java.sql.SQLException;
-
 public class Main {
     public static void main(String[] args) {
         bankBalance bankBalance=new bankBalance(50);
 
         try {
-            bankBalance.withdrawl(20);
+            bankBalance.withdrawal(100);
         }catch (Exception e){
             System.out.println(e);
         }

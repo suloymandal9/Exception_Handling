@@ -4,27 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad368d8-ac8e-4983-9feb-a536c85a2122" name="Changes" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/src/InsufficientFundexception.java" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/src/bankBalance.java" afterDir="false" />
+    <list default="true" id="e28ef85b-8479-465c-8bb0-3f8f5c9b9999" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InsufficientFundexception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InsufficientFundException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TryCatchFinally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryCatchFinally.java" afterDir="false" />
->>>>>>> origin/main
+      <change beforePath="$PROJECT_DIR$/src/bankBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankBalance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,28 +22,25 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="31UqSmfBMwOeQ3rS8SjIKsULLQH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="31bx4XeEliXDOkDn2EgBCsiEh8u" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dad368d8-ac8e-4983-9feb-a536c85a2122" name="Changes" comment="" />
-      <created>1755589008121</created>
+      <changelist id="e28ef85b-8479-465c-8bb0-3f8f5c9b9999" name="Changes" comment="" />
+      <created>1755806382818</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1755589008121</updated>
+      <updated>1755806382818</updated>
     </task>
     <servers />
   </component>
